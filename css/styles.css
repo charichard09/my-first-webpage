@@ -1,10 +1,15 @@
 h1 {
-  color: blue;
+  font-family:'Times New Roman';
+  color: red;
+  font-weight: bold;
 }
 
 h2 {
+  font-family: comic;
   font-style: italic;
   text-align: center;
+  font-weight: bold;
+  color: blue;
 }
 
 p {
@@ -14,4 +19,5 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+  font-weight: 900;
 }
