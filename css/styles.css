@@ -23,5 +23,21 @@ ul {
 }
 
 .tos {
-  font-size: smaller;
+  font-size: larger;
+  color: red;
+}
+
+img {
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background: yellow;
+}
+
+.column {
+  width: 320px;
+  float: right;
 }
